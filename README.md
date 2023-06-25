@@ -2,7 +2,7 @@
 
 This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Github and EY.
 Project Link -https://delightful-stone-0e694e100.3.azurestaticapps.net/  
-Project demo video link -
+Project demo video link -https://youtu.be/9chfp7ylVWA
 
 AZURE TECHNOLOGIES USED FOR PROJECT:
 
