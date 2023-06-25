@@ -38,8 +38,11 @@ TECH STACK 💻
 
 Azure(Hosting)
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
 
 
